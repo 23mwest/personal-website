@@ -13,7 +13,6 @@ import {
 
 function App() {
   return (
-    <div>
     <HashRouter>
       <Switch>
         <Route exact path="/" component={Home}></Route>
@@ -21,7 +20,6 @@ function App() {
         <Route exact path="/projects" component={Projects}></Route>
       </Switch>
     </HashRouter>
-    </div>
   );
 }
 
