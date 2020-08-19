@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.786adaed.chunk.css",
-    "main.js": "/static/js/main.c7fff312.chunk.js",
-    "main.js.map": "/static/js/main.c7fff312.chunk.js.map",
+    "main.css": "/static/css/main.c337f954.chunk.css",
+    "main.js": "/static/js/main.11192269.chunk.js",
+    "main.js.map": "/static/js/main.11192269.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ce89729d.js",
     "runtime-main.js.map": "/static/js/runtime-main.ce89729d.js.map",
-    "static/css/2.523d07b1.chunk.css": "/static/css/2.523d07b1.chunk.css",
-    "static/js/2.2429f903.chunk.js": "/static/js/2.2429f903.chunk.js",
-    "static/js/2.2429f903.chunk.js.map": "/static/js/2.2429f903.chunk.js.map",
+    "static/css/2.40cd4504.chunk.css": "/static/css/2.40cd4504.chunk.css",
+    "static/js/2.3c5712cf.chunk.js": "/static/js/2.3c5712cf.chunk.js",
+    "static/js/2.3c5712cf.chunk.js.map": "/static/js/2.3c5712cf.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7da59bd1aba1447d2070fd82e0251f39.js": "/precache-manifest.7da59bd1aba1447d2070fd82e0251f39.js",
+    "precache-manifest.e918504bd8d3399500f5058706f5ee24.js": "/precache-manifest.e918504bd8d3399500f5058706f5ee24.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.523d07b1.chunk.css.map": "/static/css/2.523d07b1.chunk.css.map",
-    "static/css/main.786adaed.chunk.css.map": "/static/css/main.786adaed.chunk.css.map",
-    "static/js/2.2429f903.chunk.js.LICENSE.txt": "/static/js/2.2429f903.chunk.js.LICENSE.txt",
-    "static/media/MichaelJWest-Resume.pdf": "/static/media/MichaelJWest-Resume.d52640c6.pdf"
+    "static/css/2.40cd4504.chunk.css.map": "/static/css/2.40cd4504.chunk.css.map",
+    "static/css/main.c337f954.chunk.css.map": "/static/css/main.c337f954.chunk.css.map",
+    "static/js/2.3c5712cf.chunk.js.LICENSE.txt": "/static/js/2.3c5712cf.chunk.js.LICENSE.txt",
+    "static/media/MichaelJWest-Resume.pdf": "/static/media/MichaelJWest-Resume.d52640c6.pdf",
+    "static/media/duck.png": "/static/media/duck.1c9f2cb5.png",
+    "static/media/rocks.JPG": "/static/media/rocks.57d0e587.JPG",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
+    "static/media/stella.JPG": "/static/media/stella.c6dbc1db.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.ce89729d.js",
-    "static/css/2.523d07b1.chunk.css",
-    "static/js/2.2429f903.chunk.js",
-    "static/css/main.786adaed.chunk.css",
-    "static/js/main.c7fff312.chunk.js"
+    "static/css/2.40cd4504.chunk.css",
+    "static/js/2.3c5712cf.chunk.js",
+    "static/css/main.c337f954.chunk.css",
+    "static/js/main.11192269.chunk.js"
   ]
 }
